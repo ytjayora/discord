@@ -1,14 +1,19 @@
 {
   "name": "lightbot",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.9.1",
+  "description": "Discord Bot",
   "main": "bot.js",
   "scripts": {
-    "test": "node bot.js"
+    "test": "npm run lint"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytjayora/discord"
   },
   "author": "Jayora",
-  "license": "ISC",
-  "dependencies": {
-    "discord.js": "^11.4.2"
-  }
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Serhann/Ejder-BOT/issues"
+  },
+  "homepage": "https://github.com/Serhann/Ejder-BOT#readme"
 }
